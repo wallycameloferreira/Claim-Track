@@ -176,6 +176,60 @@ A solução deverá permitir que as informações sejam registradas e acompanhad
 A plataforma deverá manter o histórico das movimentações do sinistro, permitindo identificar o status atual, responsáveis, atividades realizadas, documentos, orçamentos, valores e demais informações relacionadas.
 
 ## 8. Escopo Inicial
+Dentro do escopo
+
+O MVP do Claim Track deverá contemplar:
+
+**Gestão de clientes**
+-cadastro de clientes;
+consulta de dados;
+histórico de sinistros relacionados ao cliente.
+**Comunicação de sinistros**
+abertura de sinistro;
+registro da data e local da ocorrência;
+descrição do evento;
+identificação do cliente;
+identificação do bem/veículo relacionado;
+anexação de documentos e evidências.
+**Gestão do sinistro**
+classificação;
+priorização;
+atribuição de responsável;
+alteração de status;
+registro de atividades;
+histórico do sinistro;
+controle de pendências.
+**Tratativa**
+registro das ações realizadas;
+solicitação de documentos;
+acompanhamento de pendências;
+registro de pareceres;
+acompanhamento dos responsáveis.
+**Orçamento**
+solicitação de orçamento;
+cadastro de itens e serviços;
+valores;
+fornecedores/prestadores;
+envio para aprovação;
+aprovação ou rejeição;
+histórico das alterações.
+**Execução**
+acompanhamento dos serviços;
+registro de execução;
+custos realizados;
+conclusão do serviço.
+**Cobrança**
+identificação do valor devido pelo cliente;
+geração da cobrança;
+acompanhamento do status da cobrança;
+registro do pagamento;
+controle de valores pendentes.
+**Gestão**
+consulta de sinistros;
+filtros;
+indicadores;
+histórico;
+acompanhamento de prazos e status.
 
 ### Dentro do escopo
 
