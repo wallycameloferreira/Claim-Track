@@ -303,3 +303,33 @@ quantidade de ocorrências sem responsável;
 quantidade de sinistros sem atualização dentro do prazo definido.
 
 ## 10. Hipóteses
+
+As seguintes hipóteses serão utilizadas inicialmente e deverão ser validadas durante as etapas de entrevistas e elicitação.
+
+H1 — Centralização
+
+A centralização das informações em uma única plataforma reduzirá a dispersão de dados relacionados aos sinistros.
+
+H2 — Rastreabilidade
+
+O registro do histórico de movimentações permitirá identificar quem realizou cada atividade e quando ela ocorreu.
+
+H3 — Controle de prazos
+
+A utilização de status, responsáveis e atividades pendentes permitirá melhorar o acompanhamento dos prazos de tratamento.
+
+H4 — Orçamentos
+
+A centralização dos orçamentos permitirá melhorar o controle dos valores previstos e realizados.
+
+H5 — Cobrança
+
+A integração do processo de cobrança ao fluxo do sinistro permitirá melhorar o acompanhamento dos valores devidos pelos clientes.
+
+H6 — Visibilidade gerencial
+
+A disponibilidade de indicadores permitirá aos gestores acompanhar o volume, situação, custos e desempenho dos sinistros.
+
+H7 — Padronização
+
+A utilização de um fluxo estruturado permitirá reduzir variações no processo de tratamento dos sinistros.
