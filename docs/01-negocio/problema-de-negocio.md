@@ -93,7 +93,7 @@ dificuldade para analisar custos e resultados.
 ## 5. Público Afetado
 O processo pode envolver diferentes perfis de usuários e áreas.
 
-**Público	Participação no processo**
+**Público**	Participação no processo
 **Cliente**	Comunica o sinistro, fornece informações/documentos, acompanha a tratativa e realiza pagamentos quando aplicável
 **Analista de Sinistros**	Registra, analisa e acompanha o sinistro
 **Gestor de Sinistros**	Supervisiona a operação, aprova tratativas e acompanha indicadores
@@ -104,8 +104,76 @@ O processo pode envolver diferentes perfis de usuários e áreas.
 **Administrador do Sistema**	Gerencia usuários, permissões e configurações
 
 ## 6. Objetivo do Projeto
+Desenvolver uma plataforma capaz de centralizar, controlar e dar rastreabilidade ao processo de gestão e tratativa de sinistros, permitindo acompanhar o sinistro desde sua comunicação até seu encerramento.
+
+O sistema deverá apoiar principalmente:
+
+1-comunicação do sinistro;
+2-registro das informações;
+3-análise e triagem;
+4-controle da tratativa;
+5-solicitação e gerenciamento de documentos;
+6-geração e acompanhamento de orçamentos;
+7-aprovação dos serviços;
+8-acompanhamento da execução;
+9-consolidação dos custos;
+10-geração da cobrança ao cliente;
+11-acompanhamento do pagamento;
+12-encerramento do sinistro.
 
 ## 7. Visão da Solução
+
+O Claim Track será uma plataforma centralizada para gerenciamento do ciclo de vida dos sinistros.
+
+A solução deverá permitir que as informações sejam registradas e acompanhadas dentro de um fluxo estruturado.
+
+**Visão inicial:**
+
+                    CLAIM TRACK
+                         │
+                         ▼
+              ┌────────────────────┐
+              │ Comunicação        │
+              │ do Sinistro        │
+              └─────────┬──────────┘
+                        ▼
+              ┌────────────────────┐
+              │ Registro e         │
+              │ Triagem            │
+              └─────────┬──────────┘
+                        ▼
+              ┌────────────────────┐
+              │ Análise e          │
+              │ Tratativa           │
+              └─────────┬──────────┘
+                        ▼
+              ┌────────────────────┐
+              │ Orçamento          │
+              └─────────┬──────────┘
+                        ▼
+              ┌────────────────────┐
+              │ Aprovação          │
+              └─────────┬──────────┘
+                        ▼
+              ┌────────────────────┐
+              │ Execução do        │
+              │ Serviço            │
+              └─────────┬──────────┘
+                        ▼
+              ┌────────────────────┐
+              │ Apuração de        │
+              │ Valores            │
+              └─────────┬──────────┘
+                        ▼
+              ┌────────────────────┐
+              │ Cobrança           │
+              │ ao Cliente         │
+              └─────────┬──────────┘
+                        ▼
+              ┌────────────────────┐
+              │ Encerramento       │
+              └────────────────────┘
+A plataforma deverá manter o histórico das movimentações do sinistro, permitindo identificar o status atual, responsáveis, atividades realizadas, documentos, orçamentos, valores e demais informações relacionadas.
 
 ## 8. Escopo Inicial
 
