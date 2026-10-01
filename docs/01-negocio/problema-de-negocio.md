@@ -182,7 +182,7 @@ O MVP do Claim Track deverá contemplar:
 
 **Gestão de clientes**
 
--cadastro de clientes;
+cadastro de clientes;
 consulta de dados;
 histórico de sinistros relacionados ao cliente.
 
@@ -194,7 +194,9 @@ descrição do evento;
 identificação do cliente;
 identificação do bem/veículo relacionado;
 anexação de documentos e evidências.
+
 **Gestão do sinistro**
+
 classificação;
 priorização;
 atribuição de responsável;
@@ -202,13 +204,17 @@ alteração de status;
 registro de atividades;
 histórico do sinistro;
 controle de pendências.
+
 **Tratativa**
+
 registro das ações realizadas;
 solicitação de documentos;
 acompanhamento de pendências;
 registro de pareceres;
 acompanhamento dos responsáveis.
+
 **Orçamento**
+
 solicitação de orçamento;
 cadastro de itens e serviços;
 valores;
@@ -216,18 +222,24 @@ fornecedores/prestadores;
 envio para aprovação;
 aprovação ou rejeição;
 histórico das alterações.
+
 **Execução**
+
 acompanhamento dos serviços;
 registro de execução;
 custos realizados;
 conclusão do serviço.
+
 **Cobrança**
+
 identificação do valor devido pelo cliente;
 geração da cobrança;
 acompanhamento do status da cobrança;
 registro do pagamento;
 controle de valores pendentes.
+
 **Gestão**
+
 consulta de sinistros;
 filtros;
 indicadores;
