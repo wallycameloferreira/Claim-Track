@@ -181,10 +181,13 @@ Dentro do escopo
 O MVP do Claim Track deverá contemplar:
 
 **Gestão de clientes**
+
 -cadastro de clientes;
 consulta de dados;
 histórico de sinistros relacionados ao cliente.
+
 **Comunicação de sinistros**
+
 abertura de sinistro;
 registro da data e local da ocorrência;
 descrição do evento;
