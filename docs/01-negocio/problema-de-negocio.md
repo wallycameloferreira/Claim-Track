@@ -175,7 +175,7 @@ A solução deverá permitir que as informações sejam registradas e acompanhad
               └────────────────────┘
 A plataforma deverá manter o histórico das movimentações do sinistro, permitindo identificar o status atual, responsáveis, atividades realizadas, documentos, orçamentos, valores e demais informações relacionadas.
 
-## 8. Escopo Inicial
+### Dentro do escopo
 Dentro do escopo
 
 O MVP do Claim Track deverá contemplar:
@@ -246,10 +246,60 @@ indicadores;
 histórico;
 acompanhamento de prazos e status.
 
-### Dentro do escopo
 
 ### Fora do escopo
 
+Nesta primeira versão, ficam fora do escopo:
+
+processamento bancário próprio;
+emissão de nota fiscal;
+integração com instituições financeiras;
+inteligência artificial para análise automática de sinistros;
+aplicativos mobile nativos;
+integração automática com seguradoras externas;
+sistemas contábeis completos;
+gestão completa de estoque;
+gestão completa de oficina;
+processamento de pagamentos diretamente pela plataforma.
+
+Essas funcionalidades poderão ser avaliadas posteriormente como possíveis evoluções do produto.
+
 ## 9. Indicadores de Sucesso
+
+A efetividade da solução poderá ser acompanhada por indicadores como:
+
+**Operacionais**
+
+tempo médio entre comunicação e registro do sinistro;
+tempo médio de tratamento;
+quantidade de sinistros em aberto;
+quantidade de sinistros encerrados;
+quantidade de sinistros pendentes;
+percentual de sinistros tratados dentro do prazo;
+quantidade de atividades pendentes.
+
+**Orçamentários**
+
+tempo médio para geração do orçamento;
+quantidade de orçamentos aprovados;
+quantidade de orçamentos rejeitados;
+valor total dos orçamentos;
+diferença entre valor orçado e valor realizado.
+
+**Financeiros**
+
+valor total a cobrar;
+valor cobrado;
+valor recebido;
+valor pendente;
+tempo médio de recebimento;
+quantidade de cobranças em atraso.
+
+**Qualidade do processo**
+
+percentual de sinistros com documentação completa;
+quantidade de retrabalhos;
+quantidade de ocorrências sem responsável;
+quantidade de sinistros sem atualização dentro do prazo definido.
 
 ## 10. Hipóteses
